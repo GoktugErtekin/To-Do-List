@@ -1,2 +1,2 @@
 # To-Do-List
-Uygulama içerisinde yapılacaklar listesi hazırlayabilir ve silebilirsiniz.
+You can create and delete to-do lists within the app.
