@@ -40,6 +40,7 @@ body {
     background: rgba(0, 0, 0, 0);
     color: #6d8eb4;
     transition: .3s;
+    cursor: pointer;
 }
 
 #ekle:hover {
